@@ -1,14 +1,8 @@
-
-    ██████╗  ██████╗ ██╗    ██╗███████╗██████╗ 
-    ██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗
-    ██████╔╝██║   ██║██║ █╗ ██║█████╗  ██████╔╝
-    ██╔═══╝ ██║   ██║██║███╗██║██╔══╝  ██╔══██╗
-    ██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║
-    ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
-
+<img width="851" height="315" alt="PowerClassicBanner" src="https://github.com/user-attachments/assets/4cb4bbdd-fbbb-4b61-98ca-04bd3480c10d" />
 
 <h1 align="left">👋 Howdy! I'm Power.</h1>
 <h3 align="left">A full-stack developer from Brazil.</h3>
+
 
 - 💻 | I’m currently working on a **Discord bot called Klee**
 - 🌱 | I’m currently learning **Assembly & Operating Systems Design**
